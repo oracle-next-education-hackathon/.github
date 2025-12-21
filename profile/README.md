@@ -29,7 +29,7 @@ Sem automação, esse processo depende de leitura manual, o que torna a análise
 ---
 ## 💡 Solução Proposta
 
-A **Sentiment Platform** oferece uma solução simples e integrada para esse problema, permitindo que textos sejam analisados automaticamente e classificados de acordo com o sentimento expresso.
+A **Sentiment API** oferece uma solução simples e integrada para esse problema, permitindo que textos sejam analisados automaticamente e classificados de acordo com o sentimento expresso.
 
 A plataforma é composta por dois módulos principais:
 
