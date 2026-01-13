@@ -28,7 +28,6 @@ Projeto desenvolvido pelos participantes do hackathon:
 - [Jesse Lima](https://www.linkedin.com/in/jessé-lima07/) 
 - [John Miguel Fernandes](https://www.linkedin.com/in/john-fernandesdev)
 - [Nicolly Brasil](https://www.linkedin.com/in/nicolly-brasil)  
-- [Nilson Cruz]()  
 - [Priscila Santos](https://www.linkedin.com/in/priscilasdsantos/)
 - [Stefany Oliveira](https://www.linkedin.com/in/stefany-i-oliveira)
 - [Willian Marques](https://www.linkedin.com/in/willianvmarques/)
